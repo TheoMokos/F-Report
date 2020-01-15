@@ -159,13 +159,14 @@
 ## Παραδοτέο Α
 
 Προσθήκη πέντε φωτογραφιών στο αντίγραφο του βιβλίου του μαθήματος. 
+
 | Images | Thumbnail | Original | (.md) |
 | --- | --- | --- | --- |
-| Nintendo Switch |    [nintendo_switch_thumb.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/nintendo_switch_thumb.jpg)  	|    [nintendo_switch.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/nintendo_switch.jpg)   	|   [nintendo_switch.md](https://github.com/TheoMokos/gr/blob/gh-pages/_gallery/nintendo_switch.md)   	|
-| Kindle E-Reader |    [kindle_thumb.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/kindle_thumb.jpg)    	|     [kindle.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/kindle.jpg)    	|    [kindle.md](https://github.com/TheoMokos/gr/blob/gh-pages/_gallery/kindle.md)    	|
-| Floppy Disk |   [floppy_disk_thumb.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/floppy_disk_thumb.jpg)   	|    [floppy_disk.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/floppy_disk.jpg)   	|   [floppy_disk.md](https://github.com/TheoMokos/gr/blob/gh-pages/_gallery/floppy_disk.md)   	|
-| Amazon Echo Dot Speaker |       [amazon_dot_speaker_thumb.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/amazon_dot_speaker_thumb.jpg)       	|        [amazon_dot_speaker.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/amazon_dot_speaker.jpg)       	|        [amazon_dot_speaker.md](https://github.com/TheoMokos/gr/blob/gh-pages/_gallery/amazon_dot_speaker.md)      	|
-| Sony PS One | [sony_ps_one_thumb.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/sony_ps_one_thumb.jpg) 	|  [sony_ps_one.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/sony_ps_one.jpg) 	| [sony_ps_one.md](https://github.com/TheoMokos/gr/blob/gh-pages/_gallery/sony_ps_one.md) 	|<br>
+| Nintendo Switch | [nintendo_switch_thumb.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/nintendo_switch_thumb.jpg) | [nintendo_switch.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/nintendo_switch.jpg) | [nintendo_switch.md](https://github.com/TheoMokos/gr/blob/gh-pages/_gallery/nintendo_switch.md) | 
+| Kindle E-Reader | [kindle_thumb.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/kindle_thumb.jpg) |     [kindle.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/kindle.jpg) | [kindle.md](https://github.com/TheoMokos/gr/blob/gh-pages/_gallery/kindle.md) |
+| Floppy Disk | [floppy_disk_thumb.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/floppy_disk_thumb.jpg) | [floppy_disk.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/floppy_disk.jpg) | [floppy_disk.md](https://github.com/TheoMokos/gr/blob/gh-pages/_gallery/floppy_disk.md) |
+| Amazon Echo Dot Speaker | [amazon_dot_speaker_thumb.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/amazon_dot_speaker_thumb.jpg) | [amazon_dot_speaker.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/amazon_dot_speaker.jpg) |  [amazon_dot_speaker.md](https://github.com/TheoMokos/gr/blob/gh-pages/_gallery/amazon_dot_speaker.md) |
+| Sony PS One | [sony_ps_one_thumb.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/sony_ps_one_thumb.jpg) | [sony_ps_one.jpg](https://github.com/TheoMokos/gr/blob/gh-pages/images/sony_ps_one.jpg) | [sony_ps_one.md](https://github.com/TheoMokos/gr/blob/gh-pages/_gallery/sony_ps_one.md) |<br>
  
   
  ## Παραδοτέο Β
